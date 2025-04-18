@@ -14,16 +14,15 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
     align="left" 
     alt="GitHub Stats1" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px" 
+    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
   />
 
 
 <img 
-      align="rigth" 
       alt="GitHub Stats" 
-      height="155" 
-      style="padding-right: 5px;" 
+      height="200" 
+      style="padding-right: 10px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 

@@ -20,9 +20,10 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
 
 
 <img 
-      align="left" 
+      align="rigth" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 5px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-dos-Santos-Nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 

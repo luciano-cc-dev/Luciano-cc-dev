@@ -6,30 +6,6 @@ Meu nome é Luciano dos Santos Nascimento, tenho 21 anos. Atualmente, estou curs
 Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da informação e linguagens de programção. 
 
   ##
-### 🧭 Estatísticas 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br" 
-  />
-
-</p>
-
-
-
-#
-
-
 
 ### 💻 Linguagens de programação
 
@@ -53,5 +29,38 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
  <div>
    <img align="center" alt="Luciano" height="280 width="40px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0d3hobG81MHh6OWoxYm11ZHY2dWxvdTNvdTBudms0MHUwZWc2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
  </div>
+ 
+  ##
+
+### 🧭 Estatísticas 
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
+  />
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br" 
+  />
+  
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      width="350px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&locale=pt-br" 
+  />
+</p>
+
+
+
+
+
 
   

@@ -7,11 +7,30 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
 
   ##
 ### 🧭 Estatísticas 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br" 
+  />
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&locale=pt-br" 
+  />
 
-![luciano-dos-santos-nascimento's Stats](https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&count_private=false&locale=pt-br&include_all_commits=true)
-![luciano-dos-santos-nascimento's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br)
-![luciano-dos-santos-nascimento's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+</p>
+
 
 
 #

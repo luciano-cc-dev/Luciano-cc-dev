@@ -22,12 +22,6 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
       height="150" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br" 
   />
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&locale=pt-br" 
-  />
 
 </p>
 

@@ -15,7 +15,7 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
     alt="GitHub Stats1" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luciano-dos-Santos-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
@@ -24,7 +24,7 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
       alt="GitHub Stats" 
       height="155" 
       style="padding-right: 5px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-dos-Santos-Nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
 </P>

@@ -24,11 +24,7 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
   
 </div>
 
-  ##
-
- <div>
-   <img align="center" alt="Luciano" height="280 width="40px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0d3hobG81MHh6OWoxYm11ZHY2dWxvdTNvdTBudms0MHUwZWc2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
- </div>
+ 
  
   ##
 

@@ -1,7 +1,6 @@
 ## Olá, Sou o Luciano 🐱
 
 ![Luciano-dos-Santos-Nascimento's Stats](https://github-readme-stats.vercel.app/api?username=Luciano-dos-Santos-Nascimento&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Luciano-dos-Santos-Nascimento's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luciano-dos-Santos-Nascimento&theme=tokyonight&hide_border=true)
 
 ##
 
@@ -23,7 +22,6 @@
 
  <div>
    <img align="center" alt="Luciano"   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0d3hobG81MHh6OWoxYm11ZHY2dWxvdTNvdTBudms0MHUwZWc2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
-   <img align="center" alt="Luciano2"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I5cW5zNTI3bHdrYXV4NXd5MnNkNmFvMzhqc253c2R0bHF0cjgzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
  </div>
 
   

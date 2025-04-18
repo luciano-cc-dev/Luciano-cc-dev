@@ -8,16 +8,26 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
   ##
 ### 🧭 Estatísticas 
 
-<img
-  align="left"
-  title="github stats"
-  height="200"
-  style="passing-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=Luciano-dos-Santos-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+<P>
+  
+<img 
+    align="left" 
+    alt="GitHub Stats1" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Luciano-dos-Santos-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-dos-Santos-Nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-Bom, essas são as estatísticas dos meus commits, forks e tudo mais.
-Espero que isso ajude...
+</P>
+
 
 ##
 

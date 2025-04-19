@@ -29,31 +29,15 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
 
 ### 🧭 Estatísticas 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
-  />
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-dos-santos-nascimento&theme=tokyonight&hide_border=false&locale=pt-br" 
-  />
-  
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      width="350px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-dos-santos-nascimento&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&locale=pt-br" 
-  />
-</p>
+ <p>
+   <img alt="estatistica" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=luciano-cc-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true&locale=pt-br"/>
+   <img alt="estatistica" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-cc-dev&theme=dracula&hide_border=false&locale=pt-br"/>
+ </p>
 
 
+### 💽 Linguagens mais usadas
+
+![luciano-cc-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-cc-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact&locale=pt-br)
 
 
 

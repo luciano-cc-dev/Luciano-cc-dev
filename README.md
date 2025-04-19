@@ -42,4 +42,5 @@ Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da
 
 
 
-  
+  ![Snake animation](https://github.com/luciano-cc-dev/luciano-cc-dev/blob/output/github-contribution-grid-snake.svg)
+

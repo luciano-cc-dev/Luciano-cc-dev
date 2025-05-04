@@ -3,7 +3,7 @@
 *`Desenvolvedor web`* *`Ciência da Computação`*
 
 Meu nome é Luciano dos Santos Nascimento, tenho 21 anos. Atualmente, estou cursando minha graduação de ciência da computação na Universidade Federal de Roraima.
-Estou começando a estudar desenvolvimento web. Tenho interesse em segurança da informação, QA e linguagens de programção. 
+Estou começando a estudar desenvolvimento web. Tenho leve curiosidade em segurança da informação e linguagens de programção. 
 
   ##
 

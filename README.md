@@ -1,21 +1,15 @@
 ## 🐱 Olá, Sou o Luciano 
 
-*`Desenvolvedor web`* *`Ciência da Computação`*
+ *`Ciência da Computação`*
 
 Meu nome é Luciano dos Santos Nascimento, tenho 21 anos. Atualmente, estou cursando minha graduação de ciência da computação na Universidade Federal de Roraima.
-Estou começando a estudar desenvolvimento web. Tenho leve curiosidade em segurança da informação e linguagens de programção. 
+Tenho leve curiosidade em segurança da informação e linguagens de programção. 
 
   ##
 
 ### 💻 Linguagens de programação
 
-<div style="display: inline_block"><br>
-  <img align="center" am alt="Luciano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" am alt="Luciano-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" am alt="Luciano-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" am alt="Luciano-css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  
-</div>
+
   
   ##
 ### ✉️ E-mail para contato

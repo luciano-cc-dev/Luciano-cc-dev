@@ -10,6 +10,8 @@ Tenho leve curiosidade em segurança da informação e linguagens de programçã
 ### 💻 Linguagens de programação
 
 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/eccfcf56-2025-47ba-974c-6120a5fb348a" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e7e3e456-174b-4b95-9088-c055c52b6f17" />
   
   ##
 ### ✉️ E-mail para contato
@@ -21,22 +23,11 @@ Tenho leve curiosidade em segurança da informação e linguagens de programçã
 
  
  
-  ##
-
-### 🧭 Estatísticas 
-
- <p>
-   <img alt="estatistica" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=luciano-cc-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true&locale=pt-br"/>
-   <img alt="estatistica" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-cc-dev&theme=dracula&hide_border=false&locale=pt-br"/>
- </p>
-
-
-### 💽 Linguagens mais usadas
-
-![luciano-cc-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-cc-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact&locale=pt-br)
+  
 
 
 
+##
 
   ![Snake animation](https://github.com/luciano-cc-dev/luciano-cc-dev/blob/output/github-contribution-grid-snake.svg)
 
